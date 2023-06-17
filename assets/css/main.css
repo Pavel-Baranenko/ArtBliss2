@@ -1509,14 +1509,15 @@ ul {
     font-size: 30px;
   }
 
-  .title__container {
-    justify-content: space-between;
-  }
 }
 
 @media (max-width:413px) {
   .container {
     width: 300px
+  }
+
+  .title__container {
+    justify-content: space-between;
   }
 
   .header {
